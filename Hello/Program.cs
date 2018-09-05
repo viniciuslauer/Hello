@@ -12,6 +12,7 @@ namespace Hello
         {
             Console.Write("Teste");
             Console.Write("Teste2");
+            Console.WriteLine("blah");
         }
     }
 }
