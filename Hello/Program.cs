@@ -10,6 +10,9 @@ namespace Hello
     {
         static void Main(string[] args)
         {
+            Console.Write("Teste");
+            Console.Write("Teste2");
         }
     }
 }
+
